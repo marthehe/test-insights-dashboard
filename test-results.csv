@@ -1,0 +1,7 @@
+test_id,test_name,status,duration_seconds,date,browser,platform,is_flaky
+1,login should work,passed,5,2024-12-01,chromium,windows,false
+2,cart adds item,failed,8,2024-12-01,chromium,windows,false
+3,checkout,passed,6,2024-12-01,firefox,linux,false
+4,checkout,failed,6,2024-12-02,firefox,linux,true
+5,filter works,passed,3,2024-12-03,webkit,macos,false
+6,cart adds item,passed,9,2024-12-04,chromium,windows,false
