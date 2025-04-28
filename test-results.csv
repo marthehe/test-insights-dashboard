@@ -1,7 +1,7 @@
-test_id,test_name,status,duration_seconds,date,browser,platform,is_flaky
-1,login should work,passed,5,2024-12-01,chromium,windows,false
-2,cart adds item,failed,8,2024-12-01,chromium,windows,false
-3,checkout,passed,6,2024-12-01,firefox,linux,false
-4,checkout,failed,6,2024-12-02,firefox,linux,true
-5,filter works,passed,3,2024-12-03,webkit,macos,false
-6,cart adds item,passed,9,2024-12-04,chromium,windows,false
+test_id,test_name,status,duration_seconds,date,browser,platform
+5e75b5c15d2640b592b8e14257b60fbb,Unnamed Test,complete,0,N/A,N/A,N/A
+2279b155c38e4d519156ea8380108c2e,Unnamed Test,complete,0,N/A,N/A,N/A
+20d2384202c0474e9fa225bcea816f9f,Unnamed Test,complete,0,N/A,N/A,N/A
+c8f946e017e24a188edbb9a813572990,Unnamed Test,complete,0,N/A,N/A,N/A
+15c2676e34c946f08d81cec6308dab64,Unnamed Test,complete,0,N/A,N/A,N/A
+6f54694e32a6445ca0407cfaf2f60c14,Unnamed Test,complete,0,N/A,N/A,N/A
